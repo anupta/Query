@@ -1201,11 +1201,7 @@ Sub-Region / Cluster	Saree(s)	Marker
 Barpali (Bargarh district)	Dandiya Saree	Tagged "barpali saree"
 Western Odisha Folk Culture	Rangabati Saree	Based on folk song "Rangabati"
 Kapti Tradition	Tribeni Sudhamayee, Matru Mamata	Regional specialty format
-________________________________________
-📌 Summary
-All 50 items (49 sarees + 1 video) in this archive are linked to Sambalpur region production. The archive itself is a dedicated regional repository maintained by Sambalpur's Ganagadhar Meher University to preserve and document the Sambalpuri textile heritage of Western Odisha.
-There is no need to filter by region — the entire collection represents Sambalpur region artisan production.
-Would you like me to explore any specific aspect of Sambalpur production — such as weaving techniques, time periods, award-winning pieces, or regional sub-clusters like Barpali?
+
 
 15.	Show ceremonial sarees made by traditional weaving communities. - dspace mcp
 Perfect! Now let me compile all ceremonial sarees made by traditional weaving communities (Bhulia and Meher).
