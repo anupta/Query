@@ -1,5 +1,5 @@
 Attribute-Based Queries (5)
-1.	Show Sambalpuri sarees made with cotton fibre and red colour palette - from dspace mcp
+1.	Show Sambalpuri sarees made with cotton fibre and red colour palette
 
 Here are 10 Sambalpuri sarees in Cotton fibre with a Red colour palette, sourced from the DSpace archive:
 ________________________________________
@@ -117,7 +117,7 @@ Year	2015
 ________________________________________
 Quick Summary: All 10 sarees are woven by the Bhulia community using Cotton fibre. Most use Single Ikat, except the Double Ikat piece which is a notably rarer weaving technique. The Mayurakhi stands out as a festive (Nuakhai) saree, while Bichitrapuri is noted as one of the most enduringly popular designs. Would you like to filter further or explore any specific saree in more detail?
 
-2.	Find sarees with wide border size and traditional Bandha weaving technique - from dspace mcp
+2.	Find sarees with wide border size and traditional Bandha weaving technique 
 
 Let me try broader searches separately to get better results.Here are the results from the DSpace archive. The archive does not have a dedicated "Bandha" weaving technique as a tagged category — however, it does contain sarees linked to the Bandha tradition via the Sarbandha and Bandhadaya styles. I've pulled all relevant matches and organised them into two clear sections for you:
 ________________________________________
@@ -187,7 +187,7 @@ ________________________________________
 4	Bandhadaya Upendra Bhanja Pata	Medium	Bandhadaya	Tussar Silk
 Only 2 sarees match both criteria (Wide Border + Bandha tradition) — the Traditional Sarbandha Buti and the Duiphulia Double Ikat Suti. Would you like to explore any of these further or adjust the filters?
 
-3.	Which sarees use silk material and floral pattern type? - dspace mcp
+3.	Which sarees use silk material and floral pattern type?  
 Here are the findings from the DSpace archive. The archive does not tag any saree with a dedicated "Floral" pattern type — the closest floral-related designs appear under Motifs and are identified through their titles, subjects, and descriptions (e.g. flower, lotus, phula). I've cross-referenced all silk sarees and floral-linked designs and organised everything below:
 ________________________________________
 ⚠️ Exact Match: Silk + Floral Pattern — None Found
@@ -223,7 +223,7 @@ Silk + Floral (exact match)	❌ 0	Not available in archive
 Silk only (all types)	✅ 5	All Tussar Silk, all tagged Motifs
 Floral-linked only	✅ 3	All Cotton fiber
 The archive separates silk designs and floral designs into different textile categories. Would you like me to dig deeper into any of these — or explore another combination of filters?
-4.	List sarees created after 2020 with chakra motifs. - dspace mcp
+4.	List sarees created after 2020 with chakra motifs.  
 Here are the findings after an exhaustive search across multiple related terms in the DSpace archive.
 ________________________________________
 ❌ Chakra Motifs — Not Found in Archive
@@ -251,7 +251,7 @@ Printed	Print-based designs
 Plain	Minimal/no pattern
 Chakra is not among them. Would you like me to search for a specific motif type from the list above, or explore another filter combination?
 
-5.	Give items where colour palette is black and white.- dspace mcp
+5.	Give items where colour palette is black and white. 
 Now let me filter strictly for only Black & White as the exact palette — excluding results that include additional colours.From the 10 results returned, exactly 2 sarees have a colour palette of strictly Black and White only — no other colours. Here they are:
 ________________________________________
 🧵 Sarees with Black & White Colour Palette (Exact Match)
@@ -303,7 +303,7 @@ Would you like me to include the broader set with additional colours, or refine 
 
 Motif and Design-Oriented Queries (5)
 
-6.	Find Sambalpuri sarees with shankha motif used in ceremonial contexts. - dspace mcp
+6.	Find Sambalpuri sarees with shankha motif used in ceremonial contexts.  
 Here are the full findings after an exhaustive search across all relevant terms in the DSpace archive.
 ________________________________________
 ❌ Shankha Motif — Not Found in Archive
@@ -360,7 +360,7 @@ Shankha Motif (exact)	❌ 0 — Not in archive
 Total Ceremonial Sarees	13
 The archive does not catalogue shankha as a motif at all. Would you like me to explore a specific ceremonial occasion further, or search for another motif type?
 
-7.	Show designs where the phula pattern appears in traditional weaving. - dspace mcp
+7.	Show designs where the phula pattern appears in traditional weaving.  
 Here are the complete results. In Sambalpuri textile tradition, "Phula" means flower — so the search covered all direct phula-named designs as well as broader floral/flower-linked designs across the archive.
 ________________________________________
 🌸 Section A — Direct "Phula" Named Designs (4 found)
@@ -463,7 +463,7 @@ Naphulia	Single restrained flower	Double Ikat	Naphulia Sarbandha
 Lotus / Flowery	Full floral motifs	Double Ikat	Utkala Laxmi, Bharat Ratna
 The Duiphulia variant is the most recurring phula pattern, appearing across both ceremonial and everyday contexts. Would you like to explore any specific phula variant or weaving technique in more detail?
 
-8.	Which sarees feature geometric Bandha designs? - dspace mcp
+8.	Which sarees feature geometric Bandha designs?  
 Here are the complete findings after searching across all Bandha-family terms and geometric-related patterns throughout the archive.
 ________________________________________
 ❌ "Geometric Bandha" as a Tagged Design — Not Found
@@ -583,7 +583,7 @@ Pasapalli	Explicit chess-block grid	2	13 Kuthi Sakta, Macha Phula Bichitrapuri
 Total		7	
 The Sarbandha sub-family is the most purely geometric within the Bandha tradition, while Pasapalli is the archive's only standalone geometric weaving technique. Would you like to explore any of these styles further?
 
-9.	Retrieve items with symbolic cultural motifs used in Odissi dance.-dspace mcp
+9.	Retrieve items with symbolic cultural motifs used in Odissi dance
 Here are the full findings after an exhaustive search across all symbolic, cultural, dance, and ritual-related terms in the archive.
 ________________________________________
 ❌ Odissi Dance — Not Found in Archive
@@ -757,7 +757,7 @@ Symbolic Category	Motif	Saree	Cultural Significance
 🎵 Folk	Weaver song (Nilabasanti)	Traditional Bhulia Saree	Oral & performing arts
 The Mayurakhi (peacock) and Macha Phula Bichitrapuri (Dalkhai dance festival) are the closest ties to dance performance in the archive. Would you like to explore any specific symbolic category or motif further?
 
-10.	List sarees where pattern type is traditional Bandha - dspace mcp
+10.	List sarees where pattern type is traditional Bandha  
 Here are the complete results. The archive does not use "traditional Bandha" as a tagged patternType — the pattern types used are Motifs, Striped, Printed, Butta, and Plain. However, the Bandha tradition is fully represented through three distinct sub-styles across titles and subjects. All five sarees belonging to this family have been retrieved.
 ________________________________________
 🧵 All Traditional Bandha-Family Sarees (5 found)
@@ -862,10 +862,10 @@ These 5 sarees are the complete set of traditional Bandha designs in the archive
 
 Community and Region-Based Queries
 
-11.	Show sarees woven by the Bhulia weaving community - dspace mcp
+11.	Show sarees woven by the Bhulia weaving community
 Now let me consolidate all unique Bhulia sarees found and build the complete list.Here is the full consolidated list of all 48 sarees woven by the Bhulia community, organised by weaving technique and occasion for easy navigation.
 ________________________________________
-🧵 Bhulia Community — Complete Saree Collection (48 found)
+🧵 Bhulia Community — Complete Saree Collection
 ________________________________________
 🔹 Section A — Single Ikat (30 sarees)
 #	Title	Year	Color Palette	Border	Fiber	Pattern	Occasion	🏆	🔗
@@ -983,7 +983,7 @@ Award Winners	🏆 8 sarees — National Award (4), Santh Kabir Award (3), Natio
 Year Range	1972 – 2022
 The Bhulia community is by far the most dominant weaver group in the archive. Would you like to filter this further — by year, occasion, fiber, or award status?
 
-12.	Find designs associated with Western Odisha artisan clusters - dspace mcp
+12.	Find designs associated with Western Odisha artisan clusters  
 I'll search for designs associated with Western Odisha artisan clusters and specific regional weaving centers.Here are the findings after searching across all Western Odisha artisan cluster-related terms in the archive.
 ________________________________________
 🏛️ Western Odisha Artisan Cluster Designs
@@ -1105,11 +1105,11 @@ Western Odisha (primarily Bargarh, Sambalpur, Sonepur, and Bolangir districts) i
 •	Barpali (Bargarh) — Major weaving hub
 •	Sambalpur — Historic center of Sambalpuri sarees
 •	Sonepur — Known for specific motif traditions
-The Bhulia community dominates production (48 sarees in the archive), while the Meher community represents a smaller, distinct artisan cluster (1 saree found). The Kapti saree (narrow-width format) is a regional specialty unique to this zone.
+The Bhulia community dominates production, while the Meher community represents a smaller, distinct artisan cluster (1 saree found). The Kapti saree (narrow-width format) is a regional specialty unique to this zone.
 ________________________________________
 Would you like me to search for any specific regional motifs, festivals, or weaving techniques associated with Western Odisha clusters?
 
-13.	Which sarees were created by Kostha weavers? - dspace mcp
+13.	Which sarees were created by Kostha weavers?  
 Let me check what weaver communities actually exist in the archive by searching more broadly.---
 ❌ Kostha Weavers — Not Found in Archive
 After an exhaustive search across all related terms, Kostha weavers (and all spelling variants including Kosta) do not appear anywhere in the DSpace Sambalpuri Saree archive.
@@ -1117,9 +1117,8 @@ ________________________________________
 📌 Complete Weaver Community Breakdown
 Based on all searches conducted throughout this session, the archive contains sarees from only 2 weaver communities:
 Weaver Community	Count	Sarees
-Bhulia	48	Dominant community — representing the vast majority of archive holdings
-Meher	1	Duiphulia Double Ikat Suti Saree (Handle: 123456789/88)
-Total	49	
+Bhulia	Dominant community — representing the vast majority of archive holdings
+Meher	Duiphulia Double Ikat Suti Saree (Handle: 123456789/88)
 ________________________________________
 🔍 Why Kostha Is Not Present
 The Kostha (or Kosta) weaving community is historically significant in Odisha textile traditions, particularly known for silk weaving in regions like Maniabandha and Nuapatna. However, this archive — focused specifically on Sambalpuri sarees from the Bargarh-Sambalpur region of Western Odisha — appears to only document works from the local Bhulia and Meher communities.
@@ -1142,7 +1141,7 @@ Year	2002
 ________________________________________
 Would you like to explore the Bhulia or Meher community sarees in more detail, or search for any other specific attributes in the archive?
 
-14.	List items linked to Sambalpur region production - dspace mcp
+14.	List items linked to Sambalpur region production  
 Let me search for all items broadly and then look at the publisher information which might indicate the Sambalpur region connection.Based on the extensive searches conducted, here's what I've found regarding Sambalpur region production:
 ________________________________________
 🗺️ Sambalpur Region Production — Complete Overview
@@ -1203,7 +1202,7 @@ Western Odisha Folk Culture	Rangabati Saree	Based on folk song "Rangabati"
 Kapti Tradition	Tribeni Sudhamayee, Matru Mamata	Regional specialty format
 
 
-15.	Show ceremonial sarees made by traditional weaving communities. - dspace mcp
+15.	Show ceremonial sarees made by traditional weaving communities.  
 Perfect! Now let me compile all ceremonial sarees made by traditional weaving communities (Bhulia and Meher).
 ________________________________________
 🎉 Ceremonial Sarees by Traditional Weaving Communities
@@ -1288,4 +1287,374 @@ ________________________________________
 6.	Wide borders — 5 ceremonial sarees feature wide borders, suggesting prestige
 ________________________________________
 Would you like to explore any specific ceremonial occasion, weaving technique, or award category in more detail?
+
+16. লাল রঙের সাম্বলপুরী শাড়ি দেখাও যেগুলোতে bandha technique আছে? 
+
+এখন আমি Bandha technique সহ সমস্ত শাড়ি পেয়েছি। এবার লাল রঙের সাথে ফিল্টার করি:---
+🧵 লাল রঙের Bandha Technique সাম্বলপুরী শাড়ি
+আর্কাইভে ৩টি লাল/মেরুন রঙের Bandha শাড়ি পাওয়া গেছে:
+________________________________________
+1. Duiphulia Double Ikat Suti Saree
+বিবরণ	তথ্য
+রঙ	🟤 মেরুন (Maroon), 🟠 কমলা, 🎨 বহু রঙ
+Bandha ধরন	Sarbandha (সর্বব্যাপী বন্ধ নকশা)
+বর্ডার	চওড়া (Wide)
+ফাইবার	তুলো (Cotton)
+বুনন কৌশল	Single Ikat
+অনুষ্ঠান	🛕 রথযাত্রা
+তাঁতি সম্প্রদায়	Meher Community
+বছর	২০০২
+🔗 আর্কাইভ লিংক	দেখুন
+
+________________________________________
+2. Naphulia Sarbandha Saree
+বিবরণ	তথ্য
+রঙ	🟤 মেরুন (Maroon)
+Bandha ধরন	Sarbandha (একক ফুল মোটিফ সহ)
+বর্ডার	মাঝারি (Medium)
+ফাইবার	তুলো (Cotton)
+বুনন কৌশল	Double Ikat
+প্যাটার্ন	Plain
+অনুষ্ঠান	দৈনন্দিন পরিধান
+তাঁতি সম্প্রদায়	Bhulia Community
+বছর	২০১৯
+🔗 আর্কাইভ লিংক	দেখুন
+
+________________________________________
+3. Bandhodaya 🏆
+বিবরণ	তথ্য
+রঙ	⚫ কালো, 🟤 মেরুন (Maroon)
+Bandha ধরন	Bandhodaya (ঘন মোটিফ সমৃদ্ধ বন্ধ রচনা)
+বর্ডার	চওড়া (Wide)
+ফাইবার	তসর সিল্ক (Tussar Silk)
+বুনন কৌশল	Double Ikat
+প্যাটার্ন	Motifs
+অনুষ্ঠান	🎉 নুয়াখাই (ফসল উৎসব)
+তাঁতি সম্প্রদায়	Bhulia Community
+বছর	২০১৩
+🏆 পুরস্কার	সন্ত কবীর পুরস্কার ২০১৩ — সুরেন্দ্র মেহের
+🔗 আর্কাইভ লিংক	দেখুন
+
+________________________________________
+📌 সংক্ষিপ্ত বিবরণ
+#	শাড়ির নাম	রঙ	Bandha ধরন	ফাইবার	বুনন	বর্ডার	🏆
+1	Duiphulia Double Ikat Suti	মেরুন, কমলা, বহু রঙ	Sarbandha	তুলো	Single Ikat	চওড়া	—
+2	Naphulia Sarbandha	মেরুন	Sarbandha	তুলো	Double Ikat	মাঝারি	—
+3	Bandhodaya	কালো, মেরুন	Bandhodaya	তসর সিল্ক	Double Ikat	চওড়া	🏆
+________________________________________
+🎯 বিশেষ বৈশিষ্ট্য
+•	Bandhodaya শাড়িটি একমাত্র পুরস্কার বিজয়ী এবং তসর সিল্কে তৈরি
+•	Naphulia Sarbandha একমাত্র Double Ikat তুলো শাড়ি
+•	Duiphulia একমাত্র শাড়ি Meher Community তাঁতিদের দ্বারা তৈরি
+•	সবগুলোই মেরুন (Maroon) রঙ ব্যবহার করেছে — যা লাল রঙের ঐতিহ্যবাহী গভীর ছায়া
+________________________________________
+আরো কিছু জানতে চান?
+
+17. मुझे ऐसी संबलपुरी साड़ी दिखाइए जिसमें फूल वाला पैटर्न और पारंपरिक बुनाई तकनीक हो।
+
+बहुत अच्छा! अब मैंने फूलों वाली पैटर्न वाली सभी साड़ियां खोज ली हैं। आइए इन्हें व्यवस्थित करें:
+________________________________________
+🌸 फूल वाले पैटर्न और पारंपरिक बुनाई तकनीक की संबलपुरी साड़ियां
+आर्काइव में 6 साड़ियां मिलीं जिनमें फूल (phula) का पैटर्न है और पारंपरिक बुनाई तकनीक का उपयोग किया गया है:
+________________________________________
+🔹 खास फूल वाली साड़ियां
+________________________________________
+1. Macha Phula Bichitrapuri
+विवरण	जानकारी
+फूल का प्रकार	🐟🌸 माछ फूल (मछली-फूल मोटिफ) — पासापल्ली ग्रिड पर बुना हुआ
+रंग	🔴 लाल, ⚫ काला, ⚪ सफेद
+बॉर्डर	मध्यम (Medium)
+फाइबर	सूती (Cotton)
+बुनाई तकनीक	Pasapali (पारंपरिक चेस-ब्लॉक तकनीक)
+पैटर्न	Motifs
+अवसर	🎭 डलखाई (लोक नृत्य उत्सव)
+बुनकर	भुलिया समुदाय
+वर्ष	2000
+विरासत	महाभारत और रामायण काल से जुड़ी परंपरा
+🔗 आर्काइव	देखें
+
+________________________________________
+2. Duiphulia Double Ikat Suti Saree
+विवरण	जानकारी
+फूल का प्रकार	🌸🌸 दुइफुलिया (दो-फूल मोटिफ) — युग्मित फूल पैटर्न
+रंग	🟤 मैरून, 🟠 नारंगी, 🎨 बहुरंगी
+बॉर्डर	चौड़ा (Wide)
+फाइबर	सूती (Cotton)
+बुनाई तकनीक	Single Ikat (सरबंध परंपरा)
+पैटर्न	Motifs
+अवसर	🛕 रथ यात्रा
+बुनकर	मेहर समुदाय
+वर्ष	2002
+🔗 आर्काइव	देखें
+
+________________________________________
+3. Duiphulia Double Ikat Saree
+विवरण	जानकारी
+फूल का प्रकार	🌸🌸 दुइफुलिया (दो-फूल पैटर्न)
+रंग	🟫 भूरा, ⚪ सफेद
+बॉर्डर	मध्यम (Medium)
+फाइबर	सूती (Cotton)
+बुनाई तकनीक	Single Ikat
+पैटर्न	Motifs
+अवसर	दैनिक उपयोग
+बुनकर	भुलिया समुदाय
+वर्ष	2009
+🔗 आर्काइव	देखें
+
+________________________________________
+4. Naphulia Sarbandha Saree
+विवरण	जानकारी
+फूल का प्रकार	🌸 नफुलिया (एकल संयमित फूल मोटिफ)
+रंग	🟤 मैरून
+बॉर्डर	मध्यम (Medium)
+फाइबर	सूती (Cotton)
+बुनाई तकनीक	Double Ikat (सरबंध परंपरा)
+पैटर्न	Plain
+अवसर	दैनिक उपयोग
+बुनकर	भुलिया समुदाय
+वर्ष	2019
+🔗 आर्काइव	देखें
+
+________________________________________
+5. Bharat Ratna 🏆
+विवरण	जानकारी
+फूल का प्रकार	🪷 कमल का फूल + संपूर्ण प्रकृति दृश्य (फूल, वन, नदी, हिरण, दो हंस)
+रंग	🔵 इंडिगो, 🟢 समुद्री हरा, 🎨 बहुरंगी
+बॉर्डर	मध्यम (Medium)
+फाइबर	सूती (Cotton)
+बुनाई तकनीक	Double Ikat (पारंपरिक)
+पैटर्न	Motifs
+अवसर	🛕 रथ यात्रा
+बुनकर	भुलिया समुदाय
+वर्ष	1972
+🏆 पुरस्कार	राष्ट्रीय पुरस्कार 1972 — पद्मश्री कुंजबिहारी मेहर
+विशेषता	अशोक स्तंभ (राष्ट्रीय प्रतीक) भी शामिल
+🔗 आर्काइव	देखें
+
+________________________________________
+6. Utkala Laxmi
+विवरण	जानकारी
+फूल का प्रकार	🌸 बड़े फूलों वाला मोटिफ पल्लू पर + पूरे शरीर पर फूलों के बक्से का पैटर्न
+रंग	🎨 बहुरंगी
+बॉर्डर	मध्यम (Medium)
+फाइबर	सूती (Cotton)
+बुनाई तकनीक	Double Ikat (पारंपरिक)
+पैटर्न	Motifs
+अवसर	💍 विवाह
+बुनकर	भुलिया समुदाय
+वर्ष	2005
+प्रतीक	उत्कल लक्ष्मी (ओडिशा की लक्ष्मी देवी)
+🔗 आर्काइव	देखें
+
+________________________________________
+📊 सारांश तालिका
+#	साड़ी का नाम	फूल का प्रकार	बुनाई तकनीक	फाइबर	वर्ष	🏆
+1	Macha Phula Bichitrapuri	मछली-फूल	Pasapali	सूती	2000	—
+2	Duiphulia Double Ikat Suti	दो-फूल	Single Ikat	सूती	2002	—
+3	Duiphulia Double Ikat	दो-फूल	Single Ikat	सूती	2009	—
+4	Naphulia Sarbandha	एकल फूल	Double Ikat	सूती	2019	—
+5	Bharat Ratna	कमल फूल	Double Ikat	सूती	1972	🏆
+6	Utkala Laxmi	बड़े फूल	Double Ikat	सूती	2005	—
+________________________________________
+🎯 पारंपरिक बुनाई तकनीकें
+तकनीक	साड़ियों की संख्या	विवरण
+Double Ikat	3	सबसे जटिल पारंपरिक तकनीक (Bharat Ratna, Utkala Laxmi, Naphulia)
+Single Ikat	2	क्लासिक इकत तकनीक (दोनों Duiphulia)
+Pasapali	1	शतरंज-ब्लॉक ज्यामितीय तकनीक (Macha Phula)
+________________________________________
+🌺 फूल (Phula) पैटर्न के प्रकार
+पैटर्न नाम	अर्थ	साड़ियां
+माछ फूल	मछली-फूल संयोजन	Macha Phula Bichitrapuri
+दुइफुलिया	दो फूल (युग्मित)	2 साड़ियां
+नफुलिया	एकल संयमित फूल	Naphulia Sarbandha
+कमल फूल	पवित्र कमल + प्रकृति	Bharat Ratna
+बड़े फूल	विस्तृत फूल मोटिफ	Utkala Laxmi
+________________________________________
+⭐ विशेष सिफारिश
+Bharat Ratna साड़ी सबसे विशेष है क्योंकि:
+•	🏆 राष्ट्रीय पुरस्कार विजेता (1972)
+•	🪷 कमल फूल के साथ संपूर्ण प्रकृति दृश्य
+•	🏛️ अशोक स्तंभ (राष्ट्रीय गौरव का प्रतीक)
+•	👨‍🎨 पद्मश्री कुंजबिहारी मेहर द्वारा डिजाइन किया गया
+•	📜 "भारत का रत्न" — न्यायाधीशों द्वारा नामित
+________________________________________
+क्या आप किसी खास फूल के पैटर्न या बुनाई तकनीक के बारे में और जानना चाहेंगे?
+
+18. ଲାଲ ଓ କଳା ରଙ୍ଗର ସମ୍ବଲପୁରୀ ସାଡ଼ୀ ଦେଖାନ୍ତୁ, ଯେଉଁଥିରେ ବନ୍ଧା ବୁନାଇ ଅଛି। 
+
+ମୁଁ ବନ୍ଧା ବୁନାଇ ସହିତ ସମସ୍ତ ସାଡ଼ୀକୁ ଯାଞ୍ଚ କରିବି ଏବଂ ଲାଲ ଓ କଳା ରଙ୍ଗ ଥିବା ସାଡ଼ୀକୁ ଖୋଜିବି:---
+🧵 ଲାଲ ଓ କଳା ରଙ୍ଗର ବନ୍ଧା ବୁନାଇ ସମ୍ବଲପୁରୀ ସାଡ଼ୀ
+ଆର୍କାଇଭରେ 1 ସାଡ଼ୀ ମିଳିଛି ଯେଉଁଥିରେ ଲାଲ (Maroon) ଓ କଳା ରଙ୍ଗ ସହିତ ବନ୍ଧା ବୁନାଇ ଅଛି:
+________________________________________
+🏆 Bandhodaya (ବନ୍ଧୋଦୟ)
+ବିବରଣ	ସୂଚନା
+ରଙ୍ଗ	⚫ କଳା, 🟤 ମେରୁନ୍ (ଗାଢ଼ ଲାଲ)
+ବନ୍ଧା ଶୈଳୀ	Bandhodaya (ଘନ ମୋଟିଫ୍ ସମୃଦ୍ଧ ବନ୍ଧା ରଚନା)
+ବର୍ଡର	ଚଉଡ଼ା (Wide)
+ସୂତା	ତସର ରେଶମ (Tussar Silk)
+ବୁନାଇ କୌଶଳ	Double Ikat (ଦ୍ୱିତୀୟ ଇକତ୍)
+ପ୍ୟାଟର୍ନ	Motifs (ମୋଟିଫ୍)
+ଅବସର	🎉 ନୁଆଖାଇ (ଫସଲ ଉତ୍ସବ)
+ତାନ୍ତୀ ସମୁଦାୟ	ଭୁଲିଆ ସମୁଦାୟ
+ବର୍ଷ	2013
+🏆 ପୁରସ୍କାର	ସନ୍ତ କବୀର ପୁରସ୍କାର 2013 — ସୁରେନ୍ଦ୍ର ମେହେର
+ବିଶେଷତା	ଉଚ୍ଚ ମାନର ରେଶମ ସହିତ ଜଟିଳ Double Ikat ବୁନାଇ
+🔗 ଆର୍କାଇଭ୍ ଲିଙ୍କ୍	ଦେଖନ୍ତୁ
+
+________________________________________
+📌 ଅତିରିକ୍ତ ସୂଚନା
+ବନ୍ଧୋଦୟ କ'ଣ?
+Bandhodaya (ବନ୍ଧୋଦୟ) ହେଉଛି ବନ୍ଧା ପରିବାରର ଏକ ବିଶେଷ ଶୈଳୀ:
+•	"ବନ୍ଧା" = ବନ୍ଧା-ମୁକ୍ତା ପଦ୍ଧତି (Tie-dye technique)
+•	"ଉଦୟ" = ଉଦୟ/ଉତ୍ଥାନ
+•	ଏହା ଏକ ପ୍ରତିଷ୍ଠିତ ବନ୍ଧା ବୁନାଇ ଯାହା ପ୍ରମୁଖ ଉତ୍ସବରେ ପିନ୍ଧାଯାଏ
+•	ଘନ, ସମୃଦ୍ଧ ମୋଟିଫ୍ ବ୍ୟବସ୍ଥାପନା ସହିତ ତିଆରି
+________________________________________
+🎯 ବିକଳ୍ପ: ଲାଲ+କଳା ରଙ୍ଗର ଅନ୍ୟ ଇକତ୍ ସାଡ଼ୀ (ବନ୍ଧା ନୁହେଁ)
+ଯଦି ଆପଣ ବନ୍ଧା ବ୍ୟତୀତ ଅନ୍ୟ ପାରମ୍ପରିକ ବୁନାଇ ସହିତ ମଧ୍ୟ ଆଗ୍ରହୀ, ଏଠାରେ 3ଟି ଅଧିକ ଲାଲ+କଳା ସାଡ଼ୀ ଅଛି:
+________________________________________
+1. Bibaha Bandhana 🏆
+ବିବରଣ	ସୂଚନା
+ରଙ୍ଗ	🔴 ଲାଲ, 🟠 କମଳା, ⚫ କଳା
+ବୁନାଇ	Double Ikat (ବନ୍ଧା ନୁହେଁ)
+ବର୍ଡର	ଚଉଡ଼ା
+ସୂତା	ତୁଲା (Cotton)
+ଅବସର	🎉 ନୁଆଖାଇ
+🏆 ପୁରସ୍କାର	ସନ୍ତ କବୀର ପୁରସ୍କାର 2015
+🔗 ଲିଙ୍କ୍	ଦେଖନ୍ତୁ
+
+________________________________________
+2. 7744 1260 Double Ikat
+ବିବରଣ	ସୂଚନା
+ରଙ୍ଗ	🔴 ଲାଲ, ⚪ ଧଳା, ⚫ କଳା
+ବୁନାଇ	Double Ikat
+ସୂତା	ତୁଲା
+ବର୍ଷ	2021
+🔗 ଲିଙ୍କ୍	ଦେଖନ୍ତୁ
+
+________________________________________
+3. Mayur Punch
+ବିବରଣ	ସୂଚନା
+ରଙ୍ଗ	🔴 ଲାଲ, ⚫ କଳା (କେବଳ 2 ରଙ୍ଗ)
+ବୁନାଇ	Single Ikat
+ମୋଟିଫ୍	🦚 ମୟୁର (ପାଖୁଡ଼ା)
+ବର୍ଷ	2002
+🔗 ଲିଙ୍କ୍	ଦେଖନ୍ତୁ
+
+________________________________________
+📊 ସାରାଂଶ
+ସାଡ଼ୀର ନାମ	ରଙ୍ଗ	ବୁନାଇ ଶୈଳୀ	ସୂତା	🏆
+Bandhodaya	କଳା, ମେରୁନ୍	ବନ୍ଧା (Double Ikat)	ରେଶମ	🏆
+Bibaha Bandhana	ଲାଲ, କମଳା, କଳା	Double Ikat	ତୁଲା	🏆
+7744 1260	ଲାଲ, ଧଳା, କଳା	Double Ikat	ତୁଲା	—
+Mayur Punch	ଲାଲ, କଳା	Single Ikat	ତୁଲା	—
+________________________________________
+⭐ ମୁଖ୍ୟ ସାଡ଼ୀ: Bandhodaya
+Bandhodaya ହେଉଛି ଆର୍କାଇଭରେ ଥିବା ଏକମାତ୍ର ସାଡ଼ୀ ଯେଉଁଥିରେ:
+•	✅ ଲାଲ (Maroon) ଓ କଳା ରଙ୍ଗ
+•	✅ ବନ୍ଧା ବୁନାଇ ପରମ୍ପରା
+•	🏆 ଜାତୀୟ ସ୍ତରର ପୁରସ୍କାର
+•	🎉 ନୁଆଖାଇ ଉତ୍ସବ ପାଇଁ
+•	👔 ତସର ରେଶମରେ ନିର୍ମିତ
+________________________________________
+ଅଧିକ ସୂଚନା ଦରକାର କି?
+
+19. Bhulia community তৈরি করা Sambalpuri saree গুলো দেখাও।
+
+আমি আগে এই তালিকা তৈরি করেছিলাম। এখানে একটি সংক্ষিপ্ত সারাংশ দিচ্ছি:
+________________________________________
+🧵 Bhulia Community-র তৈরি Sambalpuri Saree সমূহ
+________________________________________
+🏆 পুরস্কার বিজয়ী Bhulia সাড়ি
+সাড়ির নাম	উপলক্ষ্য	পুরস্কার	বছর	লিংক
+Mahalaxmi Pata	বিয়ে	জাতীয় পুরস্কার	2006	দেখুন
+
+Bandhadaya: Upendra Bhanja Pata	বিয়ে	জাতীয় পুরস্কার	2010	দেখুন
+
+Tribeni Sudhamayee	দৈনন্দিন	জাতীয় পুরস্কার	2012	দেখুন
+
+Bandhodaya	নুয়াখাই	সন্ত কবীর পুরস্কার	2013	দেখুন
+
+Selhari Saree	দৈনন্দিন	জাতীয় মেরিট	2013	দেখুন
+
+Bibaha Bandhana	নুয়াখাই	সন্ত কবীর পুরস্কার	2015	দেখুন
+
+Traditional Bhulia Saree	নুয়াখাই	সন্ত কবীর পুরস্কার	2017	দেখুন
+
+Bharat Ratna	রথযাত্রা	জাতীয় পুরস্কার	1972	দেখুন
+
+________________________________________
+🎨 বুনাই কৌশল অনুসারে
+Single Ikat 
+সবচেয়ে সাধারণ কৌশল, দ্রুত বুনাই এবং বিভিন্ন ডিজাইনের জন্য উপযুক্ত।
+উদাহরণ সাড়ি:
+•	Sambalpuri Nrutya (1996) - কালো
+•	Gaja Singha (2001) - মেরুন, কালো
+•	Baghambari (2004) - লাল, কালো, সরিষা হলুদ
+•	Mayurakhi (2019) - লাল, কালো, সাদা
+•	Singharani (2021) - লাল, সরিষা হলুদ, অফ-হোয়াইট
+Double Ikat 
+সবচেয়ে জটিল এবং প্রতিষ্ঠিত কৌশল।
+উদাহরণ সাড়ি:
+•	Bharat Ratna 🏆 (1972) - ইন্ডিগো, সমুদ্র সবুজ
+•	Utkala Laxmi (2005) - বহু রঙ
+•	Matru Mamata 🏆 (2008) - মেরুন
+•	Tribeni Sudhamayee 🏆 (2012) - কালো, সাদা, বহু রঙ
+•	Bandhodaya 🏆 (2013) - কালো, মেরুন
+Pasapali 
+দাবা-খেলা ভিত্তিক জ্যামিতিক কৌশল।
+সাড়ি:
+•	Tera Kuthi Sapta (1997)
+•	Macha Phula Bichitrapuri (2000)
+•	Lining Sapta (2001)
+•	13 Kuthi Sakta (2006)
+________________________________________
+📅 দশক অনুসারে উৎপাদন
+দশক	সংখ্যা	উল্লেখযোগ্য সাড়ি
+1970s	1	Bharat Ratna 🏆 (1972)
+1990s	3	Bichitrapuri (1992), Sambalpuri Nrutya (1996)
+2000s	11	Utkala Laxmi, Matru Mamata 🏆, Mahalaxmi Pata 🏆
+2010s	18	Bandhodaya 🏆, Bibaha Bandhana 🏆, Tribeni Sudhamayee 🏆
+2020s	15	Lahari Lata (2022), Design No 413 (2022)
+________________________________________
+🎯 বিশেষ সংগ্রহ
+🌸 ফুল (Phula) প্যাটার্ন সাড়ি
+•	Macha Phula Bichitrapuri - মাছ-ফুল মোটিফ
+•	Duiphulia (2টি সাড়ি) - দুই-ফুল প্যাটার্ন
+•	Naphulia Sarbandha - একক ফুল
+🦚 প্রতীকী মোটিফ সাড়ি
+•	Mayurakhi - ময়ূর
+•	Singharani - সিংহ
+•	Baghambari - বাঘ
+•	Indukala - চাঁদ
+•	Bharat Ratna - কমল, হাঁস, হরিণ, অশোক স্তম্ভ
+🎉 অনুষ্ঠান ভিত্তিক
+•	নুয়াখাই : Bandhodaya 🏆, Bibaha Bandhana 🏆, Matru Mamata 🏆, Mayurakhi, Traditional Bhulia Saree 🏆
+•	বিয়ে: Mahalaxmi Pata 🏆, Bandhadaya: Upendra Bhanja Pata 🏆, Utkala Laxmi
+•	রথযাত্রা : Bharat Ratna 🏆, Baghambari, 13 Kuthi Sakta
+________________________________________
+🏛️ ঐতিহ্যগত বিশেষত্ব
+Bandha পরিবার
+•	Traditional Sarbandha Buti Saree
+•	Naphulia Sarbandha
+•	Bandhodaya 🏆
+•	Bandhadaya: Upendra Bhanja Pata 🏆
+•	Bibaha Bandhana 🏆
+Kapti সাড়ি (সংকীর্ণ প্রস্থ) 
+•	Tribeni Sudhamayee 🏆
+•	Matru Mamata 🏆
+________________________________________
+📍 আঞ্চলিক সংযোগ
+•	Barpali Cluster: Dandiya Saree
+•	Western Odisha Folk: Rangabati Saree 🏆 (2019 National Merit)
+•	Institutional: ORDRC/M17
+________________________________________
+🔗 সম্পূর্ণ তালিকা দেখার জন্য
+আপনি যদি সম্পূর্ণ সাড়ির বিস্তারিত তালিকা চান, অথবা কোনো নির্দিষ্ট ধরনের (রঙ, বুনাই কৌশল, উপলক্ষ্য, বছর) অনুসারে ফিল্টার করতে চান, আমাকে জানান!
+আপনি কী দেখতে চান?
+•	নির্দিষ্ট রঙের সাড়ি?
+•	নির্দিষ্ট বুনাই কৌশল?
+•	নির্দিষ্ট উপলক্ষ্যের জন্য?
+•	নির্দিষ্ট বছরের?
+•	পুরস্কার বিজয়ী সাড়ি শুধুমাত্র?
 
